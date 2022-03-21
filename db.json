@@ -10,12 +10,12 @@
     { "id": 2, "body": "some comment", "postId": 2 }
   ],
   "likes":[
-    { "postId": 1, "userUsername": "sa"},
-    { "postId": 1, "userUsername": "sa"},
-    { "postId": 3, "userUsername": "ma"}
+    { "postId": 1, "userId": "sa"},
+    { "postId": 1, "userId": "sa"},
+    { "postId": 3, "userId": "ma"}
   ],
   "users":[
-    { "username":"sa", "password":"pass"},
-    { "username":"ma", "password":"pass"}
+    { "id":"sa", "password":"pass"},
+    { "id":"ma", "password":"pass"}
   ]
 }
